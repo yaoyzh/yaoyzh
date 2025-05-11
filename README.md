@@ -1,5 +1,5 @@
 - 👋 Bonjour, I’m Yunzhen
-- 👀 I’m interested in theoretical machine learning
+- I’m interested in theoretical machine learning
 
 <!---
 yaoyzh/yaoyzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
